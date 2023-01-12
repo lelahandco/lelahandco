@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lelahandco
 - 👀 I’m interested in music, argoritmic composition & more
-- 🌱 I’m currently learning Fmod/Unity & supercollider
+- 🌱 I’m currently learning Fmod/Unity, max msp & supercollider
 - 💞️ I’m looking to collaborate on games (and other art) that require music
 - 📫 you can reach me @lelahandco on twitter
 
